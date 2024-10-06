@@ -90,7 +90,17 @@ body {
 }
 
 .toggle-button {
-  margin: 20px;
+  margin-left: 20px;
+}
+
+.move-button {
+  display: block;
+  width: 100%;
+}
+
+.move-item {
+  font-size: 14px;
+  margin-top: 4px;
 }
 
 .highlight {
